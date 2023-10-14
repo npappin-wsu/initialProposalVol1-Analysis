@@ -1,0 +1,11 @@
+pandas
+geopandas
+h3pandas
+itables
+requests
+folium
+matplotlib
+mapclassify
+pyarrow
+contextily
+pygris
