@@ -9,3 +9,4 @@ mapclassify
 pyarrow
 contextily
 pygris
+openpyxl
