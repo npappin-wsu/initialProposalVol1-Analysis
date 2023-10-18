@@ -10,3 +10,5 @@ pyarrow
 contextily
 pygris
 openpyxl
+numba
+folium
